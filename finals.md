@@ -27,7 +27,7 @@
 6. Click on properties to check success and failure
 7. Now open event viewer
 8. Clear seucrity beofre you start
-9. AFter you have moved the files look for it in security
+9. After you have moved the files look for it in security
 10. The giveaway is the lock sign for failed attamets
 
 
