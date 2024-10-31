@@ -9,7 +9,7 @@
 5. Select permissions
 6. Give full control
 7. Click ok
-8. Gi back to properties
+8. Go back to properties
 9. Select security
 10. Select Everyone
 11. Select edit
