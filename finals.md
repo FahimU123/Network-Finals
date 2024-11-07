@@ -54,4 +54,7 @@
 13. Expand Localdisk
 14. Select folder you would like to backup
 15. Delet orginal folder on C
-16. Commence a restore 
+16. Commence a restore
+17. To check if its the same file hash, restart powershell
+18. Go to the directory with the file of interest
+19. Do the get hash command again
