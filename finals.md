@@ -58,3 +58,18 @@
 17. To check if its the same file hash, restart powershell
 18. Go to the directory with the file of interest
 19. Do the get hash command again
+
+
+# STIGS
+
+# CAT 1
+
+V-253263
+V-253265
+V-253305
+
+# CAT 2
+
+V-253313
+V-253316
+V-253322
