@@ -73,3 +73,5 @@ V-253305
 V-253313
 V-253315
 V-253322
+
+If compliant set status to not a finding, if non compliant set to opne otherwise set to applicable
