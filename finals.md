@@ -75,3 +75,23 @@ V-253315
 V-253322
 
 If compliant set status to not a finding, if non compliant set to opne otherwise set to applicable
+
+
+# Router Config
+
+1. config t
+2. interface gigabitEthernet 0/0
+3. ip address 220.130.33.1 255.255.255.128
+4. no shutdown
+5. do wr
+
+
+# Switch config
+
+1. config t
+2. Hostname sw1
+3. Interface vlan1
+4. ip address 220.130.33.1 255.255.255.128
+5. no shutdown
+
+`USE USABLE IPS`
